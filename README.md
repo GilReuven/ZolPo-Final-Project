@@ -2,4 +2,4 @@
 First degree - final project
 
 ##live link
-https://gilreuven.github.io/ZolPo-Final-Project/.
+https://gilreuven.github.io/ZolPo-Final-Project/
